@@ -26,7 +26,7 @@ if($query){
 }else{
 
 
-	echo " ha ocurrido un error pruebe mas tarde";
+	echo " ha ocurrido un error intente mas tarde";
 
 }
 
